@@ -17,7 +17,7 @@ function informacionUsuario() {
 
         alert(mensaje);
     } else {
-        alert("Por favor, ingresa tu edad en números.");
+        alert("Por favor, ingresa información válida para todos los campos.");
         informacionUsuario();
     }
 }
